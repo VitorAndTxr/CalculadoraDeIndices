@@ -1,0 +1,10 @@
+C:\Users\Big Brain\source\repos\CalculadoraDoLuciano\CalculadoraDoLuciano\bin\Debug\CalculadoraDoLuciano.exe.config
+C:\Users\Big Brain\source\repos\CalculadoraDoLuciano\CalculadoraDoLuciano\bin\Debug\CalculadoraDoLuciano.exe
+C:\Users\Big Brain\source\repos\CalculadoraDoLuciano\CalculadoraDoLuciano\bin\Debug\CalculadoraDoLuciano.pdb
+C:\Users\Big Brain\source\repos\CalculadoraDoLuciano\CalculadoraDoLuciano\obj\Debug\CalculadoraDoLuciano.csprojAssemblyReference.cache
+C:\Users\Big Brain\source\repos\CalculadoraDoLuciano\CalculadoraDoLuciano\obj\Debug\CalculadoraDoLuciano.Form1.resources
+C:\Users\Big Brain\source\repos\CalculadoraDoLuciano\CalculadoraDoLuciano\obj\Debug\CalculadoraDoLuciano.Properties.Resources.resources
+C:\Users\Big Brain\source\repos\CalculadoraDoLuciano\CalculadoraDoLuciano\obj\Debug\CalculadoraDoLuciano.csproj.GenerateResource.cache
+C:\Users\Big Brain\source\repos\CalculadoraDoLuciano\CalculadoraDoLuciano\obj\Debug\CalculadoraDoLuciano.csproj.CoreCompileInputs.cache
+C:\Users\Big Brain\source\repos\CalculadoraDoLuciano\CalculadoraDoLuciano\obj\Debug\CalculadoraDoLuciano.exe
+C:\Users\Big Brain\source\repos\CalculadoraDoLuciano\CalculadoraDoLuciano\obj\Debug\CalculadoraDoLuciano.pdb
